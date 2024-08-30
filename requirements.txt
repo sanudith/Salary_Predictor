@@ -1,10 +1,5 @@
 Flask
-Jinja2
-Werkzeug
-MarkupSafe
-itsdangerous
 scikit-learn
-pandas
-pickle-mixin
-html5lib
-hyperframe
+numpy
+pandas  
+gunicorn  
