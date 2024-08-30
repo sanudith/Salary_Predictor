@@ -5,12 +5,9 @@ MarkupSafe
 itsdangerous
 scikit-learn
 pandas
-peewee
 pickle-mixin
 html5lib
 hyperframe
 numpy
-plotly
-plotly-express
 joblib
 matplotlib
