@@ -9,5 +9,4 @@ pickle-mixin
 html5lib
 hyperframe
 numpy
-joblib
-matplotlib
+
